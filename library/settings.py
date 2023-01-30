@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'authors',
     'users',
     'corsheaders',
+    'project_app',
 ]
 
 MIDDLEWARE = [
